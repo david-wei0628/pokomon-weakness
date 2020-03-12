@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Form.resources
+C:\Users\USER\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\USER\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\USER\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\USER\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\USER\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\USER\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\USER\Desktop\Pokemon.exe.config
+C:\Users\USER\Desktop\Pokemon.exe.manifest
+C:\Users\USER\Desktop\Pokemon.application
+C:\Users\USER\Desktop\Pokemon.exe
+C:\Users\USER\Desktop\Pokemon.pdb
